@@ -73,7 +73,7 @@ scikit-learn==1.7.2
     # via
     #   -r requirements.txt
     #   sentence-transformers
-scipy==1.11.4
+scipy==1.18.0
     # via
     #   scikit-learn
     #   sentence-transformers
